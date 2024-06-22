@@ -1,0 +1,2 @@
+# crudd
+Django crudd project 
